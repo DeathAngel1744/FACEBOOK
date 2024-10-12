@@ -1,4 +1,2 @@
 `````
-git clone https://github.com/DeathAngel1744/FACEBOOK
-cd FACEBOOK 
-python Angel.py
+datr=Qe0JZ-Aesj1Q4rmnTkXOssGQ; sb=Qe0JZ8lVxWE6ba6VJGF5xB5b; m_pixel_ratio=1.4375; wd=502x1019; c_user=61566368446756; fr=0u9Q5gsOr71tKR2Qh.AWUfI235mdY--lFpSG4JxYObzDs.BnCe1B..AAA.0.0.BnCe2l.AWVwLwMRLYo; xs=7%3AKsJehNXEx8IhfQ%3A2%3A1728703910%3A-1%3A-1; locale=en_GB; ps_l=1; ps_n=1; fbl_st=100635656%3BT%3A28811731; wl_cbv=v2%3Bclient_version%3A2645%3Btimestamp%3A1728703915; vpd=v1%3B1019x501x1.4375
